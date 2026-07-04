@@ -59,11 +59,12 @@ To install and run the application locally:
 
 ## 📊 Screenshots
 
-*Once deployed, replace the placeholders below with links to your dashboard screenshots:*
+**Light Mode**
+![Light Mode Dashboard](public/light_mode.png)
 
-| Light Mode Dashboard | Dark Mode Dashboard |
-| --- | --- |
-| ![Light Mode Dashboard](public/light_mode.png) | ![Dark Mode Dashboard](public/dark_mode.png) |
+**Dark Mode**
+![Dark Mode Dashboard](public/dark_mode.png)
+
 
 ---
 
