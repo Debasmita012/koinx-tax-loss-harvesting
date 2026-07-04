@@ -60,10 +60,10 @@ To install and run the application locally:
 ## 📊 Screenshots
 
 **Light Mode**
-![Light Mode Dashboard](public/light_mode.png)
+![Light Mode Dashboard](public/screenshot_light.png)
 
 **Dark Mode**
-![Dark Mode Dashboard](public/dark_mode.png)
+![Dark Mode Dashboard](public/screenshot_dark.png)
 
 
 ---
