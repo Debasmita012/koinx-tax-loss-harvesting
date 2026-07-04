@@ -60,10 +60,13 @@ To install and run the application locally:
 ## 📊 Screenshots
 
 **Light Mode**
-![Light Mode Dashboard](public/screenshot_light.png)
+<img width="759" height="935" alt="Screenshot 2026-07-04 102445" src="https://github.com/user-attachments/assets/3500e2e5-0059-4c3d-b41e-c47ea97ccb74" />
+
+
 
 **Dark Mode**
-![Dark Mode Dashboard](public/screenshot_dark.png)
+<img width="771" height="929" alt="Screenshot 2026-07-04 102500" src="https://github.com/user-attachments/assets/98586bb7-c15e-4f7a-8a9b-bd3a0cd87847" />
+
 
 
 ---
