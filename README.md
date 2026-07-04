@@ -79,4 +79,3 @@ To install and run the application locally:
 * **State Management:** Local React state is centralized in `App.tsx` to enable fast, zero-latency rendering of harvesting simulations without the complexity of state management libraries.
 
 ---
-*Built for the KoinX Internship Challenge.*
