@@ -36,16 +36,16 @@ src/
 
 ---
 
-## 🚀 Getting Started
+## 🚀 Setup Instructions
 
-To run the application locally:
+To install and run the application locally:
 
 1. **Install dependencies:**
    ```bash
    npm install
    ```
 
-2. **Start the development server:**
+2. **Start the local development server:**
    ```bash
    npm run dev
    ```
@@ -54,6 +54,25 @@ To run the application locally:
    ```bash
    npm run build
    ```
+
+---
+
+## 📊 Screenshots
+
+*Once deployed, replace the placeholders below with links to your dashboard screenshots:*
+
+| Light Mode Dashboard | Dark Mode Dashboard |
+| --- | --- |
+| ![Light Mode Dashboard](public/light_mode.png) | ![Dark Mode Dashboard](public/dark_mode.png) |
+
+---
+
+## 📝 Key Assumptions
+
+* **Asset Classification:** Assumes standard tax harvesting logic where short-term losses offset short-term gains first.
+* **Mock Data Layer:** Data is loaded asynchronously via a Promise-based mock service to demonstrate loading states and error handling boundaries.
+* **Currency Handling:** The application uses **USD ($)** as the primary reporting currency for mock portfolio rates and values.
+* **State Management:** Local React state is centralized in `App.tsx` to enable fast, zero-latency rendering of harvesting simulations without the complexity of state management libraries.
 
 ---
 *Built for the KoinX Internship Challenge.*
